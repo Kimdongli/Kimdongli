@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 
 ![Lino`s GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimdongli&show_icons=true&theme=radical)
 
-## 🔨 Once I've used 🔨
+### 🔨 Once I've used 🔨
 
-<div style="display:flex; flex-direction:row;">
+<p align="center">
+   <div>
      <img src="https://img.shields.io/badge/JAVA-007396?style==for-the-badge&logo=JAVA&logoColor=white">
      <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
      <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
@@ -30,5 +31,6 @@ Here are some ideas to get you started:
      <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
      <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
      <!-- <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"> -->
-     </div><br>
-  </div>
+   </div>
+ </div>
+</p>
