@@ -17,7 +17,14 @@ Here are some ideas to get you started:
 
 ![Lino`s GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimdongli&show_icons=true&theme=radical)
 
-### 🔨 Once I've used 🔨
+## 📞 Contact 📞
+<div style="display:flex; flex-direction:row;">
+<a href="mailto:kjs199782@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+</a>
+</div><br>
+
+## 🔨 Once I've used 🔨
 
 <p align="center">
    <div>
